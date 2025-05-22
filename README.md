@@ -28,4 +28,10 @@ Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em compu
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
 </p>
 
- 
+## Certificações 
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=indigo) | AWS Academy Cloud Foundations |
+| ![SENAI_AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat&logoColor=white&labelColor=red&color=white) | SENAI Azure Fundamentals 900 |
+
